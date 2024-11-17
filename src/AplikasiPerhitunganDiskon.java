@@ -307,6 +307,7 @@ public class AplikasiPerhitunganDiskon extends javax.swing.JFrame {
 
     private void TombolKeluarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_TombolKeluarActionPerformed
         // TODO add your handling code here:
+        System.exit(0);
     }//GEN-LAST:event_TombolKeluarActionPerformed
 
     /**
